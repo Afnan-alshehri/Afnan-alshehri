@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi 👋, I'm Afnan
+I create web apps in Python and build machine learning and deep learning models using sklearn , tensoflow , keras and more
 
-<!--
-**Afnan-alshehri/Afnan-alshehri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachalories Computer Science 2018 , Information Security Master
+💼 Metis Data Scientist Bootcamp(T5)
+🧠 i learn machine learning and deep learning
+🌐 Design and develop machine learning , deep learning models
+🌏 Go on educational trips abroad;
+Languages and Tools:
+PythonDjango
 
-Here are some ideas to get you started:
+Heroku
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visual Studio CodePycharm
+
+HTML5CSS3Bootstrap
+
+JupeterAnaconda
+
+NumpyPanda
+
+SQLMySQLGitGitHubTensorflowKerasSklearn
+
+
+Con
