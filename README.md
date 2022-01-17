@@ -7,7 +7,7 @@ I create web apps in `Python ` and build machine learning and deep learning mode
 * 💼 Metis Data Scientist Bootcamp(T5)
 * 🧠 i learn machine learning and deep learning 
 * 🌐 Design and develop machine learning , deep learning models 
-* 🌏 Go on educational trips abroad;
+* 🌏 
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
