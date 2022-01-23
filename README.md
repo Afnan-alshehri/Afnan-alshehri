@@ -9,9 +9,8 @@ I create web apps in `Python ` and build machine learning and deep learning mode
 * 🌐 Design and develop machine learning , deep learning models 
 * 🌏 
 * ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hala-alenazi-5768a8196/	)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( http://linkedin.com/in/afnan-alsheheri-1508571b3/	)
  <BR>
-
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 
