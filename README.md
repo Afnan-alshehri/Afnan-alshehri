@@ -7,7 +7,8 @@ I create web apps in `Python ` and build machine learning and deep learning mode
 * 💼 Metis Data Scientist Bootcamp(T5)
 * 🧠  I’m interested in Data Science, Artificial Intelligence and Python.
 * 🌐 Design and develop machine learning , deep learning models 
-* 🌏 
+* 🌏 📫 You can reach me via this email
+Afnaan-1415@outlook.sa
 * ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( http://linkedin.com/in/afnan-alsheheri-1508571b3/	)
  <BR>
